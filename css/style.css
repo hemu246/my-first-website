@@ -1,0 +1,55 @@
+ /***********************Tags selectors**************************/
+body {
+        background-color: #edeef7;}
+ h1{ color: #66BFBF;}   
+ h2{
+     color: #66BFBF;
+ } 
+ 
+ h3{
+     color: #0a043c ;
+ } 
+  hr {
+        background-color:##dddddd;
+        border-style:dotted none none;
+        border-color:  #a1cae2;
+        border-width: 5px;
+        width: 10%; }
+ /***********************class selectors**************************/
+  
+ .skill{
+     color:#0a043c;
+ }
+.pro{
+    color: ##FF9933;
+}
+.name{ color: #301b3f; }
+
+.top{ background-color: #0a043c;
+    height: 5px; }
+
+.circular{ border-radius: 5%;
+position: relative;
+top: 32px; }
+
+.web { color: slateblue; }
+
+.circular{ border-radius: 50%;
+    background-size: 50% ;
+    width: 150px;
+    height: 150px;
+}
+.twitter{ border-radius: 100px ;
+    background-size: 100px ;
+    width: 150px;
+    height:150px; }
+
+.gmail{ border-radius: 100px ;
+        background-size: 100px ;
+        width: 150px;
+        height:150px; }
+
+.linkedin{ border-radius: 100px ;
+            background-size: 100px ;
+            width: 150px;
+            height:150px; }
