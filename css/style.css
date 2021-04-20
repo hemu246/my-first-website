@@ -55,31 +55,7 @@ top: 32px; }
             width: 150px;
             height:150px; }
 
-.button {
-    background: #B8B5FF;
-    background-image: -webkit-linear-gradient(top, #B8B5FF, #7868E6);
-    background-image: -moz-linear-gradient(top, #B8B5FF, #7868E6);
-    background-image: -ms-linear-gradient(top, #B8B5FF, #7868E6);
-    background-image: -o-linear-gradient(top, #B8B5FF, #7868E6);
-    background-image: -webkit-gradient(to bottom, #B8B5FF, #7868E6);
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    border-radius: 20px;
-    color: #FFFFFF;
-    font-family: Verdana;
-    font-size: 40px;
-    font-weight: 100;
-    padding: 40px;
-    -webkit-box-shadow: 1px 1px 20px 0 #000000;
-    -moz-box-shadow: 1px 1px 20px 0 #000000;
-    box-shadow: 1px 1px 20px 0 #000000;
-    text-shadow: 1px 1px 20px #000000;
-    border: solid #FFFFFF 1px;
-    text-decoration: none;
-    display: inline-block;
-    cursor: pointer;
-    text-align: center;
- }
+
  
  
 
