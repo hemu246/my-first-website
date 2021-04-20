@@ -16,6 +16,7 @@ body {
         border-width: 5px;
         width: 10%; }
 a{ text-decoration : none;}
+
  /***********************class selectors**************************/
   
  .skill{
@@ -53,7 +54,8 @@ top: 32px; }
 .linkedin{ border-radius: 100px ;
             background-size: 100px ;
             width: 150px;
-            height:150px; }
+            height:150px;
+}
 
 
  
